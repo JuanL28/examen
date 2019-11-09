@@ -1,0 +1,53 @@
+Nombre: 
+	Grupo: matutino 2
+	Fecha: 08/11/2019
+	
+	GIT
+	
+	Cual es la diferencia entre git y GitHUB? el Git es el manejador de versiones y en Github podemos ver y accesar a los 
+	repositorios públicos.
+
+	En cuantos y cuales estados puede estar un archivo? espacio de trabajo, en staged y en el repositorio
+
+	Para que sirve el comando "git add ." ?
+	para agregar todos los archivos del directorio a staged
+
+	Cuales son los 4 datos mas relevantes a la hora de hacer un commit?
+	saber quien hizo los cambios
+	agregar comentarios en los commits
+	la rama donce se hicieron los cambios
+		
+
+	
+	Cual es el comando para crear una rama en mi repositorio?
+	git branch <El nombre de la rama>
+
+	JIRA
+	
+	Defina lo que es un issue: es cualquier tarea agregada a Jira
+
+	En kanban y scrum, cuales son las columnas default de un tablero?
+	Backlog, selected for development, in progres and Done
+
+	Como se selecciona un Dashboard para mostrarse en la pantalla de bienvenida?
+	en la pantalla principal de Jira, arriba en el menú dashboards, de los que estén disponiblesen favoritos, selecciono el que quiero que 
+	Jira muestre en home
+
+	Jenkins
+	
+	Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu?
+	cd
+
+	Como se installa Jenkins en un sistema linux?
+	poner el repositorio de jenkins en el directorio donde tengo ubunto para correrlo desde alí,
+	así jenkins valida las llaves  y hace la instalación.
+
+	Cual es la relacion entre Hudson y Jenkins?
+	cuando oracle compró hudson, la comunidad creó jenkins para seguir siendo libre 
+	
+	
+
+
+Incluir el archivo de "examen" en el repositorio de la pasteleria de Romualdo.
+
+Enviar un correo con la URL del repositorio a tchavez00@hotmail.com
